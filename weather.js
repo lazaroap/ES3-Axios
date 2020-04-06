@@ -21,11 +21,3 @@ class Weather{
   }
 
 Api.getWeather("Pelotas,RS").then(weather => {console.log(weather)})
-
-
-
-
-
-
-
-// 285c7a5a
